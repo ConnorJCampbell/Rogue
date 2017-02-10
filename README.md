@@ -1,5 +1,4 @@
 # Rogue
-Small terminal game made for school assignment through ncurses library
 
 ************
 Compilation
@@ -11,7 +10,6 @@ make
 *********
 Usage
 *********
-
  - If using the provided level file, run the executable using the command:
 ./rogue assets/levelFile.txt
 
